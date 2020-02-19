@@ -4,13 +4,15 @@ This is my personal project in order to practice data analysis, text processing,
 
 
 **Repository Organisation**
-├── README.md                         <- You are here
+```
+├── README.md                                                               <- You are here
 │
-├── scripts.csv                   <- raw data containing Seinfeld scripts 
+├── scripts.csv                                                             <- raw data containing Seinfeld scripts 
 │
 ├── Seinfeld Exploratory Data Analysis and Text Preprocessing.py            <- Python script
 │
 ├── Seinfeld Exploratory Data Analysis and Text Preprocessing.ipynb         <- Jupyter notebook
+```
 
 ## How to run the script
 
