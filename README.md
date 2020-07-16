@@ -13,9 +13,9 @@ This is my personal project in order to practice data analysis, text processing,
 │
 ├── Seinfeld Exploratory Data analysis.py           <- Python script
 │
-├── Seinfeld Exploratory Data Analysis.html         <- Jupyter notebook
+├── Seinfeld Exploratory Data Analysis.ipynb         <- Jupyter notebook
 │
-├── Seinfeld Text Preprocessing.html                <- Jupyter notebook
+├── Seinfeld Text Preprocessing.ipynb                <- Jupyter notebook
 ```
 
 ## How to run the script
